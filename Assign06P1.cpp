@@ -63,176 +63,176 @@ int main()
    for (i = 0; i < 2; ++i)
       cout << a21[i] << ' ';
    cout << "] is " << HiIndexMinNeg(a21, 2) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 2; ++i)
-//      cout << a22[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a22, 2) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 2; ++i)
-//      cout << a23[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a23, 2) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 2; ++i)
-//      cout << a24[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a24, 2) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 2; ++i)
-//      cout << a25[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a25, 2) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 2; ++i)
-//      cout << a26[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a26, 2) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 2; ++i)
-//      cout << a27[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a27, 2) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 3; ++i)
-//      cout << a31[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a31, 3) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 3; ++i)
-//      cout << a32[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a32, 3) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 3; ++i)
-//      cout << a33[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a33, 3) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 3; ++i)
-//      cout << a34[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a34, 3) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 3; ++i)
-//      cout << a35[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a35, 3) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 3; ++i)
-//      cout << a36[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a36, 3) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 3; ++i)
-//      cout << a37[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a37, 3) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 3; ++i)
-//      cout << a38[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a38, 3) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 3; ++i)
-//      cout << a39[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a39, 3) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1001[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1001, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1002[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1002, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1003[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1003, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1004[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1004, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1005[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1005, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1006[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1006, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1007[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1007, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1008[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1008, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1009[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1009, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1010[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1010, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1011[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1011, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1012[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1012, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1013[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1013, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1014[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1014, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1015[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1015, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1016[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1016, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1017[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1017, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1018[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1018, 10) << endl;
-//
-//   cout << "HiIndexMinNeg for [ ";
-//   for (i = 0; i < 10; ++i)
-//      cout << a1019[i] << ' ';
-//   cout << "] is " << HiIndexMinNeg(a1019, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 2; ++i)
+      cout << a22[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a22, 2) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 2; ++i)
+      cout << a23[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a23, 2) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 2; ++i)
+      cout << a24[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a24, 2) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 2; ++i)
+      cout << a25[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a25, 2) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 2; ++i)
+      cout << a26[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a26, 2) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 2; ++i)
+      cout << a27[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a27, 2) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 3; ++i)
+      cout << a31[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a31, 3) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 3; ++i)
+      cout << a32[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a32, 3) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 3; ++i)
+      cout << a33[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a33, 3) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 3; ++i)
+      cout << a34[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a34, 3) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 3; ++i)
+      cout << a35[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a35, 3) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 3; ++i)
+      cout << a36[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a36, 3) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 3; ++i)
+      cout << a37[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a37, 3) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 3; ++i)
+      cout << a38[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a38, 3) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 3; ++i)
+      cout << a39[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a39, 3) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1001[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1001, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1002[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1002, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1003[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1003, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1004[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1004, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1005[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1005, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1006[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1006, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1007[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1007, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1008[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1008, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1009[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1009, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1010[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1010, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1011[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1011, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1012[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1012, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1013[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1013, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1014[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1014, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1015[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1015, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1016[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1016, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1017[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1017, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1018[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1018, 10) << endl;
+
+   cout << "HiIndexMinNeg for [ ";
+   for (i = 0; i < 10; ++i)
+      cout << a1019[i] << ' ';
+   cout << "] is " << HiIndexMinNeg(a1019, 10) << endl;
 
    return EXIT_SUCCESS;
 }
@@ -240,24 +240,31 @@ int main()
 // definition for HiIndexMinNeg
 int HiIndexMinNeg(int array[], int size) {
 
+   int foundAtIndex = -999; // -999 is returned if no satisfying result is found
+
    if (size == 0) {
       return -999;
    }
 
-   cout << "Setting minNeg: " << endl;
-   int minNeg = array[size-1];
-
-   if (size-1 > 0) {
-      cout << "Comparing: " << minNeg << " with " << HiIndexMinNeg(array, size-1) << endl;
-      if (minNeg < HiIndexMinNeg(array, size-1)) {
-         cout << minNeg << " is the winner." << endl;
-
+   if (size == 1) {
+      if (array[0] < 0) {
+         return 0;
       } else {
-         cout << HiIndexMinNeg(array, size-1) << " is the winner." << endl;
-         return HiIndexMinNeg(array, size-1);
+         return foundAtIndex;
       }
    }
 
+   foundAtIndex = size-1;
+   int currentValue = array[foundAtIndex];
+   int NextIndex = HiIndexMinNeg(array, size-1);
 
-   return minNeg;
+   if (currentValue > array[NextIndex]) {
+      foundAtIndex = NextIndex;
+   }
+
+   if (array[foundAtIndex] >= 0) {
+      foundAtIndex = -999;
+   }
+
+   return foundAtIndex;
 }
